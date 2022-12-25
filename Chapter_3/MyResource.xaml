@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chapter_3.MyResource">
+    <Color x:Key="PageBgColor">#F4F6F7</Color>
+    <Color x:Key="EnteryColor">#D1F2EB</Color>
+    <Color x:Key="SelectedColor">#28B463</Color>
+    <Color x:Key="UnSelectedColor">#EC7063</Color>
+    <Color x:Key="LabelTextColor">Black</Color>
+    <x:String x:Key="PlaceHolder">Enter Subject</x:String>
+    <x:String x:Key="LabelTextContent">Empty Value</x:String>
+    <x:Int32 x:Key="FontSizeText">20</x:Int32>
+
+    
+    <Color x:Key="CancelActiveColor">#A04000</Color>
+    <Color x:Key="SubmitActiveColor">#1E8449</Color>
+    
+    <Style BaseResourceKey="DynamicResourceTest" x:Key="btnDr" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="DarkCyan"></Setter>
+        <Setter Property="TextColor" Value="LightCyan"></Setter>
+    </Style>
+
+    <Style x:Key="btnsr" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="DarkBlue"></Setter>
+        <Setter Property="TextColor" Value="LightBlue"></Setter>
+    </Style>
+
+    <Style x:Key="btn" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="DarkGoldenrod"></Setter>
+        <Setter Property="TextColor" Value="LightGoldenrodYellow"></Setter>
+    </Style>
+    <Style Class="clsDefault" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="DarkGray"></Setter>
+        <Setter Property="TextColor" Value="Black"></Setter>
+    </Style>
+</ResourceDictionary>

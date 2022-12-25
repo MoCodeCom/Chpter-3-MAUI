@@ -1,0 +1,12 @@
+.SubmitBtn{
+    color:lightgreen;
+    background-color:darkgreen;
+    font-weight:bold;
+}
+
+.CancelBtn {
+    color: lightcoral;
+    font-style: normal;
+    background-color: darkred;
+    font-weight: bold;
+}

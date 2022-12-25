@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Chapter_3
+build_property.ProjectDir = C:\Users\PC Mohammed\Desktop\VS\WPF\c#\MAUI\Chapter_3\Chapter_3\
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/MyPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.MyPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = MyPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = MyPage1.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/MyPageCss.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.MyPageCss.xaml
+build_metadata.AdditionalFiles.TargetPath = MyPageCss.xaml
+build_metadata.AdditionalFiles.RelativePath = MyPageCss.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/MyResource.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.MyResource.xaml
+build_metadata.AdditionalFiles.TargetPath = MyResource.xaml
+build_metadata.AdditionalFiles.RelativePath = MyResource.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/PC Mohammed/Desktop/VS/WPF/c\#/MAUI/Chapter_3/Chapter_3/myCss.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Chapter_3.myCss.css
+build_metadata.AdditionalFiles.TargetPath = myCss.css
+build_metadata.AdditionalFiles.RelativePath = myCss.css

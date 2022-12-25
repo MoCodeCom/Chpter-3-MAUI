@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter_3"
+             x:Class="Chapter_3.MainPage">
+    
+    <StackLayout VerticalOptions="FillAndExpand" 
+                 BackgroundColor="{StaticResource PageBgColor}"
+                 Orientation="Vertical"
+                 Padding="3">
+        <Label Text="{x:StaticResource LabelTextContent}"
+               Background="{x:StaticResource SelectedColor}"
+               TextColor="{StaticResource LabelTextColor}"></Label>
+
+        <Entry Placeholder="Please Enter Your Name"
+               TextColor="Black"
+               Background="{x:StaticResource EnteryColor}"></Entry>
+        
+        <Editor x:Name="Feedback" Unfocused="HandleFeedback" 
+                Focused="HandleFeedback"
+                TextColor="Black"
+                VerticalOptions="FillAndExpand"></Editor>
+        
+        
+        <StackLayout>
+            <Button Text="Cancel" 
+                    VerticalOptions="EndAndExpand"
+                    BackgroundColor="red"
+                    TextColor="White"></Button>
+            <Button Text="Submit"
+                    BackgroundColor="green"
+                    TextColor="White"
+                    Clicked="Button_Clicked_Submit"></Button>
+            <Button Text="Normal Button" Style="{x:StaticResource btn}"></Button>
+            <Button Text="Static Resource Button" Style="{x:StaticResource btnsr}"></Button>
+            <Button Text="Dynamic Resource Button" Style="{x:DynamicResource btnDr}"></Button>
+            <Button Text="Style Class" StyleClass="clsDefault"></Button>
+            <Button Text="Page to Css test" Clicked="Button_Clicked_Css"></Button>
+        </StackLayout>
+
+        
+    </StackLayout>
+
+</ContentPage>
